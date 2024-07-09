@@ -1,5 +1,7 @@
 # [Tmux Copycat](https://github.com/tmux-plugins/tmux-copycat)
 
+### Commands
+
 | Command         | Description                                                         |
 | --------------- | ------------------------------------------------------------------- |
 | prefix + /      | Regex search                                                        |

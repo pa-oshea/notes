@@ -1,5 +1,7 @@
 # [Tmux Yank](https://github.com/tmux-plugins/tmux-yank)
 
+### Commands
+
 | Command                    | Description                                         |
 | -------------------------- | --------------------------------------------------- |
 | (normal mode) Ctrl+space y | Copies text from the commmand line to the clipboard |

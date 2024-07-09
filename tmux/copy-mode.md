@@ -1,5 +1,7 @@
 # Copy Mode
 
+### Commands
+
 | Command           | Description   |
 | ----------------- | ------------- |
 | move character    | j k h l       |
