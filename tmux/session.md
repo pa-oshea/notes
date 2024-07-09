@@ -14,5 +14,5 @@ Tmux sessions are the core containers that manage your terminal windows and pane
 | tmux kill-session -t <session_name> | Terminate the specified Tmux session          |
 | tmux switch-client / switchc -t <session_name> | Terminate the specified Tmux session          |
 | tmus ls / list-session                            | List all the Tmux sessions currently running  |
-| prefix+d                            | Detach from the current Tmux session          |
+| Ctrl+space d                            | Detach from the current Tmux session          |
 
